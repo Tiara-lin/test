@@ -7,8 +7,12 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+<<<<<<< HEAD
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
+=======
+    "preview": "vite preview"
+>>>>>>> 400f59d57a57e3e4552f3e6c6e9eb713b5915ef9
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
@@ -24,7 +28,10 @@
     "eslint": "^9.9.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.11",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 400f59d57a57e3e4552f3e6c6e9eb713b5915ef9
     "globals": "^15.9.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
